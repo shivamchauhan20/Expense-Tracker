@@ -1,0 +1,19 @@
+.p {
+    font-family: "Times New Roman", Times, sans-serif;
+    text-align: center;
+    background-color: wheat
+  }
+.q{
+    font-family: "Times New Roman", Times, sans-serif;
+    text-align: center;
+    background-color: cadetblue
+    }
+.rowcolor1{
+   background-color: red;
+  }
+.rowcolor2{
+    background-color: green;
+   }
+.active{
+    color: red;
+  }  
